@@ -7,9 +7,9 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:729steven@gmail.com)
 
-My public website: https://stephencha.github.io/
+My public website: https://hyunsoocha.github.io/
 
-##### Some of my favorite open source projects
+##### Some of my favorite open-source projects
 
 * Face Morphable Model (3DMM)
 * Neural Radiance Field
